@@ -81,6 +81,5 @@ An intelligent recipe recommendation system that uses available ingredients, pre
 
 <div align="center">
 
-*Turning curiosity into code.*
 
 </div>
