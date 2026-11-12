@@ -1,85 +1,63 @@
 
-
 <div align="center">
 
-# Basem Serag
+# BASEM SERAG
 
-### AI & Machine Learning Engineer in Progress
+**Artificial Intelligence · Machine Learning · Software Development**
 
-*Exploring AI. Building with Python. Learning by creating.*
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/basemmahmoud141-ai)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[GitHub](https://github.com/basemmahmoud141-ai)
 
 </div>
 
 ---
 
-## About
+## PROJECTS
 
-I'm passionate about Artificial Intelligence and building intelligent systems. I enjoy understanding how models work under the hood, experimenting with deep learning architectures, and turning ideas into practical applications.
+### 01 / Mini-GPT
+**GPT-Style Language Model**
 
-My main interests are **Machine Learning, Deep Learning, NLP, and Large Language Models.**
+A PyTorch implementation of a GPT-style architecture featuring causal self-attention, training and validation loss tracking, checkpointing, and text generation.
 
-## Selected Projects
+`PYTHON` `PYTORCH` `TRANSFORMERS`
 
-<table>
-<tr>
-<td width="50%">
+[Repository ↗](https://github.com/basemmahmoud141-ai/mini-gpt)
 
-### 🤖 Mini-GPT
+---
 
-A GPT-style language model built with PyTorch, exploring causal attention, Transformer architecture, model training, and text generation.
+### 02 / Nutrition Expert
+**Intelligent Recipe Recommendation System**
 
-**Stack:** `Python` `PyTorch`
+A Flask and Prolog application that generates recipe recommendations based on available ingredients, preparation time, and user preferences.
 
-[Explore Project →](https://github.com/basemmahmoud141-ai/mini-gpt)
+`PYTHON` `FLASK` `PROLOG`
 
-</td>
-<td width="50%">
+[Repository ↗](https://github.com/basemmahmoud141-ai/nutrition-expert)
 
-### 🥗 Nutrition Expert
+---
 
-An intelligent recipe recommendation system that uses available ingredients, preparation time, and preferences to suggest recipes.
+## TECHNOLOGIES
 
-**Stack:** `Python` `Flask` `Prolog`
+| Domain | Stack |
+|:---|:---|
+| Languages | Python · C++ · SQL |
+| Machine Learning | Supervised Learning · Unsupervised Learning · Model Evaluation |
+| Deep Learning | PyTorch · TensorFlow · Neural Networks |
+| AI & NLP | Transformers · Attention Mechanisms · GPT |
+| Data Science | NumPy · Pandas · Matplotlib |
+| Knowledge Systems | Prolog · OWL · RDF/Turtle |
+| Development | Flask · Git · GitHub · Jupyter |
 
-[Explore Project →](https://github.com/basemmahmoud141-ai/nutrition-expert)
+---
 
-</td>
-</tr>
-</table>
+## TECHNICAL INTERESTS
 
-## Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**AI & Machine Learning**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-**Other Technologies**
-
-`Flask` `Prolog` `OWL` `RDF/Turtle` `Matplotlib` `Jupyter` `Git`
-
-## Current Interests
-
-- Transformer architectures & LLMs
-- Generative AI & NLP
-- Deep Learning with PyTorch
-- Intelligent systems & recommendation engines
+`Large Language Models` `Generative AI` `Deep Learning` `NLP` `Transformer Architecture` `Intelligent Systems`
 
 ---
 
 <div align="center">
 
+<sub>BASEM SERAG · GITHUB PORTFOLIO</sub>
 
 </div>
+
