@@ -1,63 +1,108 @@
 
 <div align="center">
 
-# BASEM SERAG
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=140&section=header&text=BASEM%20SERAG&fontSize=48&fontColor=ffffff&fontAlignY=55&desc=ARTIFICIAL%20INTELLIGENCE%20%2F%20SOFTWARE%20DEVELOPMENT&descSize=12&descAlignY=78&animation=fadeIn" width="100%" />
 
-**Artificial Intelligence · Machine Learning · Software Development**
+<br/>
 
-[GitHub](https://github.com/basemmahmoud141-ai)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-161b22?style=for-the-badge&logo=github)](https://github.com/basemmahmoud141-ai)
+[![Python](https://img.shields.io/badge/Python-Developer-161b22?style=for-the-badge&logo=python)](https://www.python.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-161b22?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
 
 </div>
 
----
+<br/>
 
-## PROJECTS
+## 01 — PROJECTS
 
-### 01 / Mini-GPT
-**GPT-Style Language Model**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-A PyTorch implementation of a GPT-style architecture featuring causal self-attention, training and validation loss tracking, checkpointing, and text generation.
+### Mini-GPT
 
-`PYTHON` `PYTORCH` `TRANSFORMERS`
+**Language Model · Deep Learning**
 
-[Repository ↗](https://github.com/basemmahmoud141-ai/mini-gpt)
+A GPT-style language model implemented in PyTorch, exploring Transformer architecture and autoregressive text generation.
 
----
+- Causal self-attention
+- Training & validation loss tracking
+- Checkpoint-based generation
+- Transformer fundamentals
 
-### 02 / Nutrition Expert
-**Intelligent Recipe Recommendation System**
+<br/>
 
-A Flask and Prolog application that generates recipe recommendations based on available ingredients, preparation time, and user preferences.
+`PYTHON` `PYTORCH` `GPT`
+
+[↗ VIEW SOURCE](https://github.com/basemmahmoud141-ai/mini-gpt)
+
+</td>
+<td width="50%" valign="top">
+
+### Nutrition Expert
+
+**Intelligent Systems · Recommendation**
+
+A knowledge-based recipe recommendation application powered by Flask and Prolog.
+
+- Ingredient-based recommendations
+- Time and preference filtering
+- Logic-based reasoning
+- Flask application interface
+
+<br/>
 
 `PYTHON` `FLASK` `PROLOG`
 
-[Repository ↗](https://github.com/basemmahmoud141-ai/nutrition-expert)
+[↗ VIEW SOURCE](https://github.com/basemmahmoud141-ai/nutrition-expert)
 
----
+</td>
+</tr>
+</table>
 
-## TECHNOLOGIES
+<br/>
 
-| Domain | Stack |
+## 02 — TECHNOLOGIES
+
+**PROGRAMMING**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / MACHINE LEARNING**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**DEVELOPMENT & DATA**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+`Matplotlib` `Prolog` `OWL` `RDF/Turtle`
+
+<br/>
+
+## 03 — FOCUS AREAS
+
+| ARTIFICIAL INTELLIGENCE | ENGINEERING |
 |:---|:---|
-| Languages | Python · C++ · SQL |
-| Machine Learning | Supervised Learning · Unsupervised Learning · Model Evaluation |
-| Deep Learning | PyTorch · TensorFlow · Neural Networks |
-| AI & NLP | Transformers · Attention Mechanisms · GPT |
-| Data Science | NumPy · Pandas · Matplotlib |
-| Knowledge Systems | Prolog · OWL · RDF/Turtle |
-| Development | Flask · Git · GitHub · Jupyter |
+| Large Language Models | Python Development |
+| Generative AI | Model Implementation |
+| Deep Learning | Data Processing |
+| Natural Language Processing | Intelligent Applications |
+| Transformer Architecture | Knowledge Representation |
 
----
-
-## TECHNICAL INTERESTS
-
-`Large Language Models` `Generative AI` `Deep Learning` `NLP` `Transformer Architecture` `Intelligent Systems`
+<br/>
 
 ---
 
 <div align="center">
 
-<sub>BASEM SERAG · GITHUB PORTFOLIO</sub>
+<sub>© 2026 BASEM SERAG · GITHUB</sub>
 
 </div>
-
